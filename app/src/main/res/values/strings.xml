@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Youtube To MP3</string>
+    <string name="title_activity_share">Share Activity</string>
+    <string name="service_name">Share Service</string>
+</resources>
