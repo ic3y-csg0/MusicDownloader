@@ -1,8 +1,7 @@
 # MusicDownloader
-Simple music downloader from Youtube (NOT YT MUSIC!) using public RapidApi with monthly limit of 250 requests
+Simple music downloader from Youtube app (NOT YT MUSIC!) using public RapidApi with monthly limit of 150 requests per month (3 api keys)
 
 
 
 
 
-KNOWN ISSUES - crash after download but who cares
